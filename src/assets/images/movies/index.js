@@ -1,0 +1,9 @@
+export { default as ocean } from './ocean.jpg';
+export { default as inception } from './inception.jpg';
+export { default as incredibles } from './incredibles.jpg';
+export { default as gone } from './gone.jpg';
+export { default as creed } from './creed.jpg';
+export { default as midnight } from './midnight.jpg';
+export { default as pulp } from './pulp.jpg';
+export { default as quiet } from './quiet.jpg';
+export { default as seven } from './seven.jpg';
